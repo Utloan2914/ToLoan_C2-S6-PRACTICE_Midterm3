@@ -80,3 +80,6 @@ button {
 button:hover {
   background: #6c1fd6;
 }
+.result{
+  color: red;
+}
